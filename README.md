@@ -1,7 +1,8 @@
 # 💫 About Me:
 
 ## Hi there 👋 I'm Gayathri<br><br>
- 💻 Full-Stack Developer | React • Spring Boot • Python 🚀 Ex-Software Developer Apprentice at Target 
+ 💻 Full-Stack Developer | React • Spring Boot • Python 🚀 Ex-Software Developer Apprentice at Target 🎯
+ 
 ---<br>
 ##### 🔭 I’m currently working on <br>Building scalable web applications and AI-powered systems like CRM tools and voice agents <br><br>👯 I’m looking to collaborate on <br>Full-stack projects, AI/ML applications, and open-source contributions <br><br>🤝 I’m looking for help with <br>Advanced backend architecture, system design, and scalable AI integrations <br><br>🌱 I’m currently learning <br>System Design, Backend Optimization, and Agentic AI <br><br>💬 Ask me about <br>React, Spring Boot, REST APIs, Python, and real-world project development <br><br>⚡ Fun fact <br>I enjoy turning real-world problems into working tech solutions 🚀 <br><br>---<br><br>
 ##### 🛠️ Tech Stack<br>- 💻 Languages: Java, Python, JavaScript <br>- ⚙️ Frameworks: React.js, Spring Boot, Django <br>- 🗄️ Database: MySQL <br>- 🔧 Tools: Git, Postman, Figma <br><br>---<br><br>
