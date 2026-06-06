@@ -30,8 +30,4 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=gayeeA&theme=transparent&no-frame=true&no-bg=false&margin-w=4)
 
----
 
-[![](https://komarev.com/ghpvc/?username=gayeeA&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
